@@ -1,5 +1,7 @@
 h1{
     text-align: center;
+    font-size: 50px;
+    color: rgb(236, 10, 236);
 }
 
 p{
@@ -7,10 +9,10 @@ p{
 }
 
 body{
-   background:#ff2600 
+   background:#161515 
 }
 
 
 
-body { blackground:#b9c0c3 }
+body { blackground:#eff3f4 }
 p( text-aling center)
