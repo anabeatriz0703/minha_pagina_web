@@ -2,17 +2,17 @@ body{
     background:#efadad0d ;
 }
 
-
-
-
-h1 {
+#titulo1{
     text-align: center;
     font-size: 50px;
     color: rgb(240, 42, 42);
 }
 
-p {
-    background: n#f7c0ef07;
+.p1 {
+    text-align: center;
+    font-size: 20px;
+    color: rgb(240, 42, 42);
+
 }
 
 
